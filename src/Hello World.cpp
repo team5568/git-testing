@@ -5,7 +5,7 @@ int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 
 	add(5, 7);
-	cout << "!!MORE SCIENCE!!" << endl;
+	cout << "!!MORE!!" << endl;
 
 	return 0;
 }
